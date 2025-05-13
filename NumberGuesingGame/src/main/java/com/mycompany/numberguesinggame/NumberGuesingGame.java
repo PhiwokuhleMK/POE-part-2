@@ -57,7 +57,7 @@ public class NumberGuesingGame {
             else{
                 //set flag to true to exit loop
                 hasWon = true; 
-                System.out.println("You guessed correctly:), Congratulatiins! " + "You gueesed the number in " + numberOfTries + " tries");
+                System.out.println("Congratulatiins! You guessed correctly:) " + "You gueesed the number in " + numberOfTries + " tries");
             }
         }
         
